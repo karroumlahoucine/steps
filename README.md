@@ -1,0 +1,1 @@
+By building this stepper component, I learned how to effectively manage state, implement conditional rendering, and compose reusable components in React.
